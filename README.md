@@ -1,16 +1,16 @@
         🇰🇷 Hangul Game
 
-An interactive quiz to learn Hangul, the Korean alphabet.
+#An interactive quiz to learn Hangul, the Korean alphabet.
 
-About the project:
+##About the project:
 Hangul Game is a small interactive quiz designed to help beginners learn and practice the Korean alphabet through questions and challenges.
 
-Features
+##Features
 •Multiple-choice questions.
 •Instant feedback for correct and incorrect answers.
 •More features coming soon!
 
-Technologies
+##Technologies
 •HTML
 •CSS (planned)
 •JavaScript
